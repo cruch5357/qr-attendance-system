@@ -1,30 +1,36 @@
-# 📱 RegistrApp – QR Attendance System
+# RegistrApp – QR Attendance System
 
 RegistrApp es una aplicación móvil multiplataforma para el **registro de asistencia mediante códigos QR**, diseñada para reemplazar procesos manuales por una solución digital, rápida y centralizada en la nube.
 
 El proyecto está orientado a entornos reales como instituciones educativas, capacitaciones y control básico de accesos.
 
 
-## 🚀 Descripción General
+## Descripción General
 
 RegistrApp permite a los usuarios autenticarse, escanear un código QR y registrar su asistencia en tiempo real.  
 Cada registro queda almacenado de forma segura en Firebase, incluyendo **fecha, hora, usuario y ubicación**, facilitando la trazabilidad y validación de la información.
 
 
-## 🎯 Problema y Solución
+## Problema y Solución:
 
-### Problema
+### * Problema
 - Registro manual lento y propenso a errores  
 - Falta de control y auditoría  
 - Información descentralizada  
 
-### Solución
+### * Solución
 - Automatización del proceso mediante códigos QR  
 - Registro centralizado en la nube  
 - Validación inmediata del ingreso  
 
 
-## ✨ Funcionalidades Principales
+## Imagenes
+
+![scan](assets/scan.png)
+![database](assets/database.png)
+
+
+## Funcionalidades Principales
 
 - Escaneo de códigos QR desde la cámara del dispositivo  
 - Registro automático de asistencia  
